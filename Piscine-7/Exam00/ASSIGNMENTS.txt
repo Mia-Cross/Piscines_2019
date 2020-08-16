@@ -1,0 +1,8 @@
+Start time: 05/07/2019 16:03:13 UTC
+End time: 05/07/2019 20:00:01 UTC
+Mode: real
+Final grade: 0/100
+
+Assignments:
+  Level 0:
+    0: only_a for 16 potential points (Current)

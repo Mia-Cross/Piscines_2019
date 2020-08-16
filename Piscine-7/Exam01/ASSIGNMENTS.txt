@@ -1,0 +1,8 @@
+Level 2:
+    0: first_word for 16 potential points (Current)
+    2: ft_putstr for 16 potential points (Success)
+    1: ft_putstr for 16 potential points (Failure)
+    0: ft_putstr for 16 potential points (Failure)
+    1: hello for 16 potential points (Success)
+    0: hello for 16 potential points (Failure)
+

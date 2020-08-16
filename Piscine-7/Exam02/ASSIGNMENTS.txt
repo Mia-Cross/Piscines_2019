@@ -1,0 +1,10 @@
+Start time: 19/07/2019 16:00:48 UTC
+End time: 19/07/2019 20:00:06 UTC
+Mode: real
+Final grade: 14/100
+
+Assignments:
+  Level 1:
+    1: rev_print for 14 potential points (Current)
+    0: rev_print for 14 potential points (Failure)
+    0: aff_a for 14 potential points (Success)
